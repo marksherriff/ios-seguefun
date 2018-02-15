@@ -12,6 +12,7 @@
 		0284E3522034965200861878 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0284E3502034965200861878 /* Main.storyboard */; };
 		0284E3542034965200861878 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0284E3532034965200861878 /* Assets.xcassets */; };
 		0284E3572034965200861878 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0284E3552034965200861878 /* LaunchScreen.storyboard */; };
+		0284E35F203496CE00861878 /* NewSceneViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0284E35E203496CE00861878 /* NewSceneViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		0284E3532034965200861878 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0284E3562034965200861878 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0284E3582034965200861878 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0284E35E203496CE00861878 /* NewSceneViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewSceneViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				0284E34C2034965200861878 /* AppDelegate.swift */,
 				0284E34E2034965200861878 /* ViewController.swift */,
 				0284E3502034965200861878 /* Main.storyboard */,
+				0284E35E203496CE00861878 /* NewSceneViewController.swift */,
 				0284E3532034965200861878 /* Assets.xcassets */,
 				0284E3552034965200861878 /* LaunchScreen.storyboard */,
 				0284E3582034965200861878 /* Info.plist */,
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0284E34F2034965200861878 /* ViewController.swift in Sources */,
+				0284E35F203496CE00861878 /* NewSceneViewController.swift in Sources */,
 				0284E34D2034965200861878 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
